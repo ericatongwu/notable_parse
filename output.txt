@@ -1,4 +1,4 @@
 Patient presents today with several issues
 1.BMI has increased by 10 % since their last visit
-2.patient reports experiencing dizziness several times in the last two weeks
-3.patient has a persistent cough that hasn ’ t improved for last 4 weeks
+2.Patient reports experiencing dizziness several times in the last two weeks
+3.Patient has a persistent cough that hasn ’ t improved for last 4 weeks
